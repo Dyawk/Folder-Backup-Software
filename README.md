@@ -1,5 +1,5 @@
 # Folder-Backup-Software
-Software that allow user to backup multiples times, specified folder, test by yourself !
+Software that allow user to backup multiples times a specified folder.
 
 I thought it would be useful for me to do this software, but in the end I don't use it that much. So I share it for everyone, you can edit everything you want. 
 I do not pretend to be a good developer so there can be some mistakes, but it works :)
