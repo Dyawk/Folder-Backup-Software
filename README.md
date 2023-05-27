@@ -6,8 +6,5 @@ I do not pretend to be a good developer so there can be some mistakes, but it wo
 
 I wrote this in Eclipse 2022-03 with Java 1.8.
 
-To open it you just have to do this in a terminal and it should work.
-``java -jar (name).jar``
-
 It will ask you for a directory and a name. Then it will create a folder (named as you precised) in the directory where the '.jar' is, with a config.yml. So make sure the file is in a specific directory ! (or if you don't want to, it's okay you can of course)
 If you want to change directory, you can juste deletes 'config.yml', or directly changes the values in the file, it should not be hard as there are only two lines.
